@@ -1,0 +1,11 @@
+/Users/mjm/Documents/dev/csharp/testproj/bin/Debug/netcoreapp2.2/testproj.deps.json
+/Users/mjm/Documents/dev/csharp/testproj/bin/Debug/netcoreapp2.2/testproj.runtimeconfig.json
+/Users/mjm/Documents/dev/csharp/testproj/bin/Debug/netcoreapp2.2/testproj.runtimeconfig.dev.json
+/Users/mjm/Documents/dev/csharp/testproj/bin/Debug/netcoreapp2.2/testproj.dll
+/Users/mjm/Documents/dev/csharp/testproj/bin/Debug/netcoreapp2.2/testproj.pdb
+/Users/mjm/Documents/dev/csharp/testproj/obj/Debug/netcoreapp2.2/testproj.csprojAssemblyReference.cache
+/Users/mjm/Documents/dev/csharp/testproj/obj/Debug/netcoreapp2.2/testproj.csproj.CoreCompileInputs.cache
+/Users/mjm/Documents/dev/csharp/testproj/obj/Debug/netcoreapp2.2/testproj.AssemblyInfoInputs.cache
+/Users/mjm/Documents/dev/csharp/testproj/obj/Debug/netcoreapp2.2/testproj.AssemblyInfo.cs
+/Users/mjm/Documents/dev/csharp/testproj/obj/Debug/netcoreapp2.2/testproj.dll
+/Users/mjm/Documents/dev/csharp/testproj/obj/Debug/netcoreapp2.2/testproj.pdb
